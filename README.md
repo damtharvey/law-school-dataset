@@ -1,5 +1,5 @@
 # law-school-dataset
-Dataset from Wightman, L. F., 1998. LSAC national longitudinal bar passage study. LSAC research report series.
+Dataset from [Wightman, L. F., 1998. LSAC national longitudinal bar passage study. LSAC research report series.](https://eric.ed.gov/?id=ED469370)
 
 The data is in `law_dataset.csv`.
 
